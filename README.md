@@ -1,2 +1,2 @@
 # descriptive-statistic
-Descriptive Statistik
+Einführung Descriptive Statistik
